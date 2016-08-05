@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Holidays</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_map">Show Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_details_holiday">Map</string>
+</resources>
